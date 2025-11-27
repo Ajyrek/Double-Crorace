@@ -1,0 +1,44 @@
+🛡️ Double Crorace Mobile Application Privacy Policy
+Effective Date: November 27, 2025
+
+This Privacy Policy explains how Double Crorace ("the App"), developed by [Your/Company Name - Please replace this bracket with your name or company name], handles information in relation to your use of the App.
+
+1. No Direct Data Collection by the Developer
+The Double Crorace mobile application does not collect, store, transmit, or share any Personal Identifiable Information (PII) or usage data directly from its users for its own use.
+
+We are committed to providing an application that respects and protects user privacy by design.
+
+2. Third-Party Data Collection (AdMob)
+The App uses the Google AdMob advertising platform to serve advertisements. AdMob is a third-party service and operates under Google's Privacy Policy.
+
+Please be aware that AdMob and its partners collect, receive, and use certain data automatically to serve and manage ads.
+
+Information Collected by AdMob: This may include, but is not limited to, the device's IP address, device identifiers, general location information (non-precise), and information related to ad interactions.
+
+Purpose: This data is used by AdMob for purposes such as:
+
+Displaying, targeting, and measuring the performance of advertisements.
+
+Frequency capping (limiting the number of times you see the same ad).
+
+Aggregated reporting and combating fraud and abuse.
+
+By using this App, you acknowledge and agree to the collection and use of information by Google AdMob as described in their policies.
+
+Google's Privacy Policy: You can find more information on how Google collects, uses, and processes data through its advertising services by visiting the following link: How Google uses information from sites or apps that use our services.
+
+3. Non-Personal Data
+The App may access certain non-personal data necessary for its basic operation, such as:
+
+Device Permissions: Access to internal storage (only for saving game state/progress) or vibration control, which is solely for the purpose of the App's operation and not used to collect or transmit personal data.
+
+4. Children's Privacy
+We do not knowingly collect personal data from children under the age of [13 or 16, depending on your target region/law - It is your responsibility to set the appropriate age and ensure compliance with COPPA (US) and GDPR (EU) rules, which are stringent when using ad services]. If you believe we have inadvertently collected such data, please contact us immediately.
+
+5. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy within the App or on our official website (if applicable). You are advised to review this Privacy Policy periodically for any changes.
+
+6. Contact Us
+If you have any questions or suggestions about this Privacy Policy, please contact us at:
+
+[Your Email Address - Please replace this bracket with your contact email]
